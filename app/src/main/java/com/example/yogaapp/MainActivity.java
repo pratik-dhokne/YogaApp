@@ -117,10 +117,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void music(View view){
-        Intent intent = new Intent(MainActivity.this, Music.class);
-        startActivity(intent);
-    }
+//    public void music(View view){
+//        Intent intent = new Intent(MainActivity.this, Music.class);
+//        startActivity(intent);
+//    }
 
 
 }
